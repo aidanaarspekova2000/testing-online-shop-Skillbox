@@ -17,3 +17,6 @@ All bugs were found during manual testing of web applications.
 - Yougile
 - Chrome DevTools
 
+## Диаграмма состояний и переходов
+`/attachments/testdesign.png`
+
