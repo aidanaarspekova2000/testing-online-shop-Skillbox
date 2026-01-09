@@ -1,0 +1,25 @@
+### Bug ID
+AP-009
+
+### Название
+При редактировании карточки товара методом PUT цена товара изменилась на цену со скидкой.
+
+### Шаги воспроизведения
+1.Отправить запрос PUT на http://intershop3.skillbox.ru/api/products/783896 с телом
+
+{
+"name": "the Marias", 
+"slug": "not-for-radio", 
+"manage_stock": false, 
+"stock_quantity": 0, 
+"description": "new music album", 
+"price": 1500, 
+"regular_price": 1500, 
+"sale_price": 599 
+}
+
+### Ожидаемый результат
+Карточка товара успешно отредактирована
+
+### Фактический результат
+[JSON ответ сервера](../attachments/put.json)
