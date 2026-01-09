@@ -21,10 +21,10 @@ All bugs were found during manual testing of web applications.
 ![Диаграмма](../attachments/testdesign.png)
 
 ## Приёмочные сценарии
-[Приемочные сценарии(Google Docs)]([https://docs.google.com/spreadsheets/d/1CD9PW0ZVaht1TozM1qM7ybVPaFbZPYd6Fn3AxzLDmb8/edit?usp=sharing])
+[Приемочные сценарии(Google Docs)](https://docs.google.com/spreadsheets/d/1CD9PW0ZVaht1TozM1qM7ybVPaFbZPYd6Fn3AxzLDmb8/edit?usp=sharing)
 
 ## Сценарии тестирования
-[Cценарии(Google Docs)]([https://docs.google.com/spreadsheets/d/17sHfBs36OtKipHnxwZkZuKsaGIPmBh81NgGRBzkz3HY/edit?usp=sharing])
+[Cценарии(Google Docs)](https://docs.google.com/spreadsheets/d/17sHfBs36OtKipHnxwZkZuKsaGIPmBh81NgGRBzkz3HY/edit?usp=sharing)
 
 ## Фактическое время теста с сценариями
-[Факт время(Google Docs)]([https://docs.google.com/spreadsheets/d/17sHfBs36OtKipHnxwZkZuKsaGIPmBh81NgGRBzkz3HY/edit?usp=sharing])
+[Факт время(Google Docs)](https://docs.google.com/spreadsheets/d/17sHfBs36OtKipHnxwZkZuKsaGIPmBh81NgGRBzkz3HY/edit?usp=sharing)
