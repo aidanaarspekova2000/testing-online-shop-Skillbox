@@ -26,6 +26,6 @@ AP-001
 }
 
 ### Фактический результат
-[JSON ответ сервера](../attachments/BR-001-login-response.json)
+[JSON ответ сервера](../attachments/get.json)
 
 
