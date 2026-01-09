@@ -18,7 +18,7 @@ All bugs were found during manual testing of web applications.
 - Chrome DevTools
 
 ## Диаграмма состояний и переходов
-![Диаграмма](../attachments/testdesign.png)
+![Диаграмма](attachments/testdesign.png)
 
 ## Приёмочные сценарии
 [Приемочные сценарии(Google Docs)](https://docs.google.com/spreadsheets/d/1CD9PW0ZVaht1TozM1qM7ybVPaFbZPYd6Fn3AxzLDmb8/edit?usp=sharing)
