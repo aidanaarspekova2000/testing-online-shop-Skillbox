@@ -1,17 +1,16 @@
 # testing-online-shop-Skillbox
-Bug reports created during QA training
+Баг-репорты, созданные в ходе обучения QA
 
-## About
-This repository contains bug reports and test documentation created during my QA training (migrated from YouGile).
-All bugs were found during manual testing of web applications.
+## О проекте
+Этот репозиторий содержит баг-репорты и тестовую документацию, созданные в процессе моего обучения QA (перенесены из YouGile). Все баги были найдены в ходе ручного тестирования веб-приложений.
 
-## Skills
-- Manual testing
-- Writing bug reports and test cases
-- Gray Box Testing
-- UI testing
+## Навыки
+- Ручное тестирование
+- Составление баг-репортов и тест-кейсов
+- Тестирование серым ящиком
+- UI-тестирование
 
-## Tools
+## Инструменты
 - Postman
 - Figma
 - Yougile
